@@ -77,5 +77,5 @@ All metrics formatted in Tableau using `Currency (Custom)` for ₹ and % as need
 - **Excel** – Data cleaning, validation
 - **Tableau** – KPI dashboards, strategic story
 - **GitHub** – Project hosting and version control
-- [LinkedIn](https://www.linkedin.com/in/charles-kilgore-250737142) -
+- [LinkedIn](https://www.linkedin.com/in/charles-kilgore-250737142)
 
