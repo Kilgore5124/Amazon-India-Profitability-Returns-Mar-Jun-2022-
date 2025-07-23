@@ -5,12 +5,12 @@ This project log details every technical and strategic step involved in preparin
 
 ---
 
-## 🧼 Data Cleaning Process (Excel)
+## Data Cleaning Process (Excel)
 
-### ✅ Files Used:
+### Files Used:
 - `Amazon Sale Report.csv` → cleaned to `Cleaned_Amazon_Sales_Data.xlsx`
 
-### 🔍 Steps Taken:
+### Steps Taken:
 | Step | Action | Reason |
 |------|--------|--------|
 | 1 | Deleted irrelevant columns (`Fulfilled By`, `Promotion ID`, `Unnamed`) | Columns provided no business value or variation |
@@ -25,7 +25,7 @@ This project log details every technical and strategic step involved in preparin
 
 ---
 
-## 📊 KPI Development
+## KPI Development
 
 | KPI | Formula | Purpose |
 |-----|---------|---------|
@@ -38,7 +38,7 @@ All metrics formatted in Tableau using `Currency (Custom)` for ₹ and % as need
 
 ---
 
-## 📈 Tableau Visuals
+## Tableau Visuals
 
 ### Story Slides Created:
 1. **Executive Summary** – Project goals, key findings, and recommendations
@@ -52,7 +52,7 @@ All metrics formatted in Tableau using `Currency (Custom)` for ₹ and % as need
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - Revenue peaked in April → highlight need for sustained marketing
 - Top styles account for majority of income → protect and promote them
@@ -61,7 +61,7 @@ All metrics formatted in Tableau using `Currency (Custom)` for ₹ and % as need
 
 ---
 
-## 🧠 Strategic Recommendations
+## Strategic Recommendations
 
 | Area | Recommendation |
 |------|----------------|
@@ -72,32 +72,10 @@ All metrics formatted in Tableau using `Currency (Custom)` for ₹ and % as need
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - **Excel** – Data cleaning, validation
 - **Tableau** – KPI dashboards, strategic story
 - **GitHub** – Project hosting and version control
-- **LinkedIn** – Public-facing career documentation
-
----
-
-## ✅ Completed Deliverables
-
-- [x] Cleaned Excel dataset
-- [x] Tableau Story (7 slides + recap)
-- [x] README.md for GitHub
-- [x] This project log
-- [ ] Tableau Public link (add manually)
-- [ ] GitHub upload (next step)
-- [ ] Resume integration (available on request)
-
----
-
-## 🧑‍💼 About the Analyst
-
-**Charles Kilgore**  
-Aspiring Data Analyst with a focus on business impact, storytelling, and operational insight.
-
-📍 Tools: Excel • Tableau • SQL  
-🔗 [LinkedIn](https://www.linkedin.com/in/charles-kilgore-250737142)
+- [LinkedIn](https://www.linkedin.com/in/charles-kilgore-250737142) -
 
